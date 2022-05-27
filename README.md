@@ -1,7 +1,7 @@
 # Prak2-PWL-ReactJS
 Name : Genja Rizky Novianto
 NIM : 119140093
-
+Link Website : https://genja08_2.github.io/
 
 Installation ⬇️
 You will need to download Git and Node to run this project
